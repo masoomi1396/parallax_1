@@ -2,7 +2,7 @@
 
 *😁 This is my parallax site with JS*
 - [Demo Project](https://masoomi1396.github.io/parallax_1/)
-- Developed by Amirmohammad Masoumi
+- Developed by Amirmohammad Masoumi & Other member of Group
 - Created - 2023-10-07
 - 🤖 Technologies Used - Html , Css , Js
 
